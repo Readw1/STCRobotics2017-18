@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="1002192239888439"
+    token="-1172771385982841013"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="374" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="527" />
+    <task
+        name="verifier"
+        duration="114" />
+
+    <artifact
+        location="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/outputs/apk/TeamCode-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1002192239888439"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/outputs/apk/TeamCode-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

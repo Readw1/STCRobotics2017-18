@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/Inspection-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1a3a00c0ec6312741914629ed283101a3301293">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Inspection-release_6c8924455ea695327fc467708f4c45e4d8000360.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/Analytics-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Analytics-release_aeb3431708f6101ac206deefb434c4f4b42d4206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/Blocks-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5216545889f13d4560613d35d498b2ca2db1d1f">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Blocks-release_29eacde5d4b780486b090d0eec9b27749e62d96d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/ModernRobotics-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="01999c87afe3d10ffa06f3efa66f39e61e6aba0c">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-ModernRobotics-release_294976c42048250e0f1f29c396fe8fd73e601f4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/ModernRobotics-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="01999c87afe3d10ffa06f3efa66f39e61e6aba0c">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-ModernRobotics-release_294976c42048250e0f1f29c396fe8fd73e601f4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/Analytics-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Analytics-release_aeb3431708f6101ac206deefb434c4f4b42d4206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/Inspection-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1a3a00c0ec6312741914629ed283101a3301293">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Inspection-release_6c8924455ea695327fc467708f4c45e4d8000360.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/RobotCore-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2a24cdb4bd53ff8f890698775608b84ab6703fe2">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-RobotCore-release_42ac01e4fa7824123f4c3c40677976b0a0919aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/RobotCore-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2a24cdb4bd53ff8f890698775608b84ab6703fe2">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-RobotCore-release_42ac01e4fa7824123f4c3c40677976b0a0919aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/RobotCore-release/jars/libs/Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca5be875a082e7b5f0277a0e85564617b181ae76">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_b6e405f77dba875fc6cb4cf8519b5fe492fdb312.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/RobotCore-release/jars/libs/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f8bcd8ef93636064d155d8e8ea6541ea7e4280d0">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/gson-2.7_912fbfc7708f9daac007940bed14f18f3917e09b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a915b76432bc0e5aa10ef1cdc9f2a4402ca40206">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/instant-run_9c295c60f21a042d84232da754ecd10e99735e41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/Blocks-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5216545889f13d4560613d35d498b2ca2db1d1f">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Blocks-release_29eacde5d4b780486b090d0eec9b27749e62d96d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/RobotCore-release/jars/libs/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f8bcd8ef93636064d155d8e8ea6541ea7e4280d0">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/gson-2.7_912fbfc7708f9daac007940bed14f18f3917e09b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/WirelessP2p-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-WirelessP2p-release_f92de95345ee43c8ce2f81c5330870aae96fe37e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/RobotCore-release/jars/libs/d2xx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a6cc281519866bbb2d0ac480409212d8d9816d18">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/d2xx_acdc5072efd62c9059085454524a3d96fba634db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/FtcCommon-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec068454985de756c760317d9c63c23b3ce2055c">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-FtcCommon-release_6df932807032f7c75d0ea48f6f4d8256bfcf7376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/WirelessP2p-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-WirelessP2p-release_f92de95345ee43c8ce2f81c5330870aae96fe37e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/RobotCore-release/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="15632afee8c14c7c0ba7168d25710c38badee7c8">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_a3d96b9717081c433d7ab7251dff378293ae196a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/Hardware-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4d964a43f48520428edfadad534fa0a3279deb84">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Hardware-release_ce4387fd8178a2ea7c1cb7e07fa2b9ba46ecf097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/RobotCore-release/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca5be875a082e7b5f0277a0e85564617b181ae76">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_b6e405f77dba875fc6cb4cf8519b5fe492fdb312.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/RobotCore-release/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="15632afee8c14c7c0ba7168d25710c38badee7c8">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_a3d96b9717081c433d7ab7251dff378293ae196a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9f99a19cdaee958704236cac5a7cd924c6f4c68f">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1e6fba978388628c510ecf95c8aecb904a4e4b25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/Hardware-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4d964a43f48520428edfadad534fa0a3279deb84">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Hardware-release_ce4387fd8178a2ea7c1cb7e07fa2b9ba46ecf097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/FtcCommon-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec068454985de756c760317d9c63c23b3ce2055c">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-FtcCommon-release_6df932807032f7c75d0ea48f6f4d8256bfcf7376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/exploded-aar/RobotCore-release/jars/libs/d2xx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a6cc281519866bbb2d0ac480409212d8d9816d18">
+        <dex dex="/Users/readbrown/Downloads/ftc_stc-master/TeamCode/build/intermediates/pre-dexed/debug/d2xx_acdc5072efd62c9059085454524a3d96fba634db.jar" />
+    </item>
+
+</items>
